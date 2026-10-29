@@ -7,4 +7,4 @@
 *salt
 	*0.1 euro
 ## Instructions
-* peel the avocados and put them into a bowl
+* put an avocado into the bowl
