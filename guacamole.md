@@ -9,3 +9,4 @@
 ## Instructions
 * clean the bowl
 * peel the avocados and put them into a bowl
+* cut all of the avocados and tomatoes into small pieces
