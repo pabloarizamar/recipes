@@ -7,3 +7,4 @@
 *salt
 	*0.1 euro
 ## Instructions
+* put an avocado into the bowl
