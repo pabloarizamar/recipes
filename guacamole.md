@@ -7,3 +7,4 @@
 *salt
 	*0.1 euro
 ## Instructions
+* peel the avocados
